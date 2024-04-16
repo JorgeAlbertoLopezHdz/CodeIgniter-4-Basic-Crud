@@ -1,0 +1,11 @@
+.datepicker{
+    cursor: pointer;
+}
+.action-btn{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.error{
+    color: red;
+}
